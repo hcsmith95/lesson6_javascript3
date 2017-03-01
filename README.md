@@ -13,8 +13,7 @@ Harrison Smith
 In this assignment, we were given the skeleton of a photo gallery for different luxury cars. We had to add in the pictures, as well as make the left and right arrow buttons functional. The skeleton gallery already came with the feature to view one image in the center, and one other image off to either side of the main picture. So, we added the feature that allows the user to choose to view five images at a time as opposed to just three. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://hcsmith95.github.io/lesson6_javascript3/ 
 
 ### Lessons Learned in the Assignment:
 1. We learned to use a for loop to populate the vehicle images in the gallery. 
